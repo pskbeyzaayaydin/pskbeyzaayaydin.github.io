@@ -393,7 +393,6 @@ a{
   margin: 3rem 1.5rem 0;
   float: left;
   box-shadow: 0 15px 10px 1px rgba(0, 0, 0, 0.75);
-  border: 0.5rem solid #fff;
 }
 
 .gallery .wrapper ul img:nth-child(1n + 4){
@@ -475,8 +474,6 @@ a{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border: 0.5rem solid #fff;
-  border-radius: 0.5rem;
   width: 75rem;
   object-fit: cover;
 }
@@ -759,6 +756,8 @@ a{
     padding: 0.5rem;
     font-size: 2rem;
   }
+
+  
 }
 
 @media (max-width: 576px){
